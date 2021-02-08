@@ -30,7 +30,7 @@ public class Main {
                 d[i] = Math.min(d[i], d[i / 5] + 1);
         }
 
-        System.out.println(d[x]);
+        System.out.println(d[x]); 
 	}
 
 }
